@@ -1,5 +1,3 @@
-Here's a stylish and crazy-looking README file for your GitHub profile:
-
 **WELCOME TO MY GALAXY OF CODE AND CREATIVITY 🚀**
 =====================================================
 
